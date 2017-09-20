@@ -2,4 +2,4 @@
 springboot-linkedin-apply
 
 
-Registering an Application with Facebook
+Registering an Application with LinkedIn
